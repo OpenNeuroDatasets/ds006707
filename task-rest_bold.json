@@ -1,4 +1,7 @@
 {
+  "TaskName": "rest",
+  "TaskFullName": "Resting State",
+  "TaskDescription": "10m of eye-open resting state (crosshair)",
   "AcquisitionMatrixPE": 80,
   "AcquisitionNumber": 1,
   "BandwidthPerPixelPhaseEncode": 51.02,
