@@ -2,7 +2,10 @@
 
 Data repository for the Night Owls Scan Club (NOSC) Project under Temple University IRB #24452. Github repository for preprocessing and analysis code can be found at https://github.com/DVS-Lab/night-owls
 
+## Description
 NOSC is a multiband, multi-echo, intensively sampled fMRI study of the reward response. It is described in detail in Mattoni et al., 2025 (preprint to be posted). Briefly, participants each provided 9-12 sessions (44 total) of functional data at a roughly biweekly rate. Each session consisteed of two runs of the MID task and two runs of the Shared Reward task, a social reward task. Participants completed a positive mood induction task in between runs and provided a mood rating before each run. Partiicpants also provided PANAS ratings and alertness scores. Resting state was collected in odd numbered sessions and neuromelanin scans (not yet included in this release) were collected in even numbered scans. 
+
+Please note BIDS validator warnings are due to 
 
 For data use please cite (preprint link) and (open neuro link).  
 
