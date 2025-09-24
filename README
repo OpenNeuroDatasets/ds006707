@@ -5,9 +5,9 @@ Data repository for the Night Owls Scan Club (NOSC) Project under Temple Univers
 ## Description, Supplemental Information, and Derivatives
 NOSC is a multiband, multi-echo, intensively sampled fMRI study of the reward response. It is described in detail in Mattoni et al., 2025 (preprint to be posted). Briefly, participants each provided 9-12 sessions (44 total) of functional data at a roughly biweekly rate. Each session consisted of two runs of the MID task and two runs of the Shared Reward task, a social reward task. Participants completed a positive mood induction task in between runs and provided a mood rating before each run. Partiicpants also provided PANAS ratings and alertness scores. Resting state was collected in odd numbered sessions and neuromelanin scans (not yet included in this version) were collected in even numbered sessions. 
 
-Information on scanning sessions, behavioral data, and outputs of L1 and LSS models (described in Mattoni et al., 2025) are available on OSF at: (link).  
+Information on scanning sessions, behavioral data, and outputs of L1 and LSS models (described in Mattoni et al., 2025) are available on OSF at https://osf.io/df5t9/ (DOI 10.17605/OSF.IO/DF5T9). Task stimuli and raw behavioral outputs are available in the /stimuli folder at https://github.com/DVS-Lab/night-owls.
 
 Please note that BIDS validator warnings are in large part attributed to additional multi-echo filenaming structures (part-mag/part-phase), as well as JSON sidecar headers that are not available in the .dcm files output by our Siemens 3T Prisma Scanner. We would like to note that these warnings do not reflect data or organization errors, nor prevent preprocessing or analyses. Please see this GitHub issue for more information on extraneous JSON headers: https://github.com/bids-standard/bids-specification/issues/2040
 
 ## How to Acknowledge
-For data use please cite (preprint link) and (open neuro link).  
+Please cite the Night Owls Scan Club primary manuscript (preprint to be posted) and OpenNeuro Dataset ds006707. 
